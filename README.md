@@ -1,5 +1,5 @@
 # Overview
-Simple C++ script that simplifies optimus-manager. This project is made for linux. Tested only on Manjaro Linux.
+Simple C++ script that simplifies [optimus-manager](https://github.com/skulleven/optimus-manager-switcher.git). This project is made for linux. Tested only on Manjaro Linux.
 
 # Building
 Building is simple.
